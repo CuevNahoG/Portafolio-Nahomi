@@ -105,6 +105,10 @@ padding: 2% 0% 0% 15%;
     padding: 3%;
 }
 
+.header__menu__link:hover{
+    background-color: var(--color-hover);
+}
+
 .presentacion__imagen{
     width: 50%;
 }
